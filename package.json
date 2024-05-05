@@ -5,11 +5,15 @@
   "dependencies": {
     "@craco/craco": "^5.9.0",
     "@heroicons/react": "^1.0.6",
+    "gh-pages": "^6.1.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-scripts": "^1.1.5"
+    "react-scripts": "^1.1.5",
+    "yarn": "^1.22.22"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b main -d build",
     "start": "craco start",
     "build": "craco build",
     "test": "craco test",
@@ -25,5 +29,6 @@
     "autoprefixer": "^9.8.6",
     "postcss": "^7.0.36",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2"
-  }
+  },
+  "homepage": "http://mlstrm.me/personalWebsite/"
 }
