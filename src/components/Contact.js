@@ -7,8 +7,8 @@ export default function Contact() {
                 Contact Me
         </h1>
         <div className="container py-0 mx-auto justify-center flex sm:flex-nowrap flex-wrap">
-            <div className="bg-gray-900 rounded-lg overflow-hidden p-5 flex relative">
-                <div className="bg-gray-800 relative flex py-5 rounded shadow-md">
+            <div className="bg-gray-800 rounded-lg overflow-hidden p-5 flex relative">
+                <div className="bg-gray-900 relative flex py-5 rounded shadow-md">
                     <div className="px-6 lg:mt-0">
                         <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                             EMAIL
