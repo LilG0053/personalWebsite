@@ -5,8 +5,8 @@ import { skills } from "../data";
 export default function Skills() {
     return (
     <section id="skills">
-        <div className="container px-5 py-10 mx-auto">
-            <div className="text-center mb-20">
+        <div className="container px-5 py-5 mx-auto">
+            <div className="mb-20">
                 <div className="text-center mb-20">
                     <ChipIcon className="w-10 incline-block mb-4" />
                     <h1 className="sm:text-4xl text-3xl font-medium justify-center title-font mb-4 text-white">
@@ -29,7 +29,18 @@ export default function Skills() {
                             </div>
                         </div> 
                     ))}
+                    
                 </div>
+                <h2 className="pt-10 text-center sm:text-3xl text-2xl font-medium title-font text-white ">
+                        Current Positions
+                </h2>
+                <ul className="pl-2 pt-3 text-left list-disc leading-relaxed list-inside text-left text-gray-300">
+                    <li className="py-2">Developing immersive worlds for the Academic and Research Technology division of Georgia Tech's Office of Information Technology</li>
+                    <li className="py-2">Undergraduate research assistant in the head worn displays team for Dr. Thad Starner's <a className= "text-indigo-400 underline"href="https://gvu.gatech.edu/research/labs/contextual-computing-group"> Contextual Computing Group </a>
+                    </li>
+                    <li className="py-2">Developing virtual leadership experiences for Georgia Tech's Leadership Education and Development office</li>
+                    <li className="py-2">Director of Marketing for <a className= "text-indigo-400 underline"href="https://www.gtxr.club/"> GTXR</a>, Georgia Tech's extended reality club</li>
+                </ul>
             </div>
         </div>
     </section>
