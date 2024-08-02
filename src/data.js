@@ -1,17 +1,17 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Drum Simulator XR",
+    subtitle: "WebXR",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "I built Drum Simulator XR to explore WebXR's capabilities, supporting both an AR and VR mode. It was developed using Wonderland Engine and is published on HeyVR.io.",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://heyvr.io/arcade/games/drum-simulator-vr",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Chopstick Simulator",
+    subtitle: "Meta Interaction SDK",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Using Meta's Interaction SDK in Unity, I made a mixed reality physics-based puzzle game using hand tracking. It has over 30 levels and a scalable, modular game design.",
     image: "./project-2.gif",
     link: "https://reactbootcamp.com",
   },
@@ -51,12 +51,14 @@ export const testimonials = [
 ];
 
 export const skills = [
-  "VR/AR",
   "C#",
   "Java",
   "Unity",
-  "Godot",
+  "XR Interaction Toolkit",
+  "Meta XR Interaction SDK",
+  "JavaScript",
   "Blender",
+  "Shader Programming",
   "React",
-  "C++",
+  "WebXR",
 ];

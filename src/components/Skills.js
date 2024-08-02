@@ -13,9 +13,7 @@ export default function Skills() {
                         Skills &amp; Technologies
                     </h1>
                     <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi sit
-                        ipsa delectus eum quo voluptas aspernatur accusantium distinctio
-                        possimus est.
+                        I mainly specialize in XR development technology, especially Unity and its XR frameworks. The technologies listed below have all been used in my personal projects. I enjoy learning, so I can quickly pick up new frameworks, engines, and languages.
                     </p>
                 </div>
                 <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
@@ -38,8 +36,8 @@ export default function Skills() {
                     <li className="py-2">Developing immersive worlds for the Academic and Research Technology division of Georgia Tech's Office of Information Technology</li>
                     <li className="py-2">Undergraduate research assistant in the head worn displays team for Dr. Thad Starner's <a className= "text-indigo-400 underline"href="https://gvu.gatech.edu/research/labs/contextual-computing-group"> Contextual Computing Group </a>
                     </li>
-                    <li className="py-2">Developing virtual leadership experiences for Georgia Tech's Leadership Education and Development office</li>
-                    <li className="py-2">Director of Marketing for <a className= "text-indigo-400 underline"href="https://www.gtxr.club/"> GTXR</a>, Georgia Tech's extended reality club</li>
+                    <li className="py-2">Developing extended reality educational applications for Georgia Tech's Leadership Education and Development office</li>
+                    <li className="py-2">Executive board member for <a className= "text-indigo-400 underline"href="https://www.gtxr.club/"> GTXR</a>, Georgia Tech's extended reality club</li>
                 </ul>
             </div>
         </div>

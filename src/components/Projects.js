@@ -13,7 +13,7 @@ export default function Projects() {
                     My Projects
                 </h1>
                 <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-                    Here are some of my projects, mainly involving 3D software like Unity, Godot, and Blender.  
+                    Here are some of my personal projects, intended to facilitate my understanding of the XR ecosystem.
                 </p>
             </div>
             <div className="flex flex-wrap -m-4">
