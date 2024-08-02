@@ -11,16 +11,16 @@ export const projects = [
     title: "Chopstick Simulator",
     subtitle: "Meta Interaction SDK",
     description:
-      "Using Meta's Interaction SDK in Unity, I made a mixed reality physics-based puzzle game using hand tracking. It has over 30 levels and a scalable, modular game design.",
-    image: "./project-2.gif",
+      "Using Meta's Interaction SDK in Unity, I made a mixed reality physics-based puzzle game using hand tracking. It has over 30 levels and a scalable, modular game design. Spatial volumes are used to provide in-game collisions with the real world.",
+    image: "./ChopstickSim.gif",
     link: "https://reactbootcamp.com",
   },
   {
     title: "Lab Classroom",
     subtitle: "Microsoft Mesh and shaders",
     description:
-      "Using Microsoft Mesh, I made a virtual classroom with a fully functional chalkboard and chemistry station. I experimented with shaders to model fluids and chemical interactions. I also experimented with prototyping using AI generated assets",
-    image: "./project-3.gif",
+      "Using Microsoft Mesh, I made a virtual classroom with a fully functional chalkboard and chemistry station. I experimented with shaders to model fluids and chemical interactions. I utilized generative AI to create some assets.",
+    image: "./ChemLabDemo.gif",
     link: "https://reactbootcamp.com",
   },
   {
