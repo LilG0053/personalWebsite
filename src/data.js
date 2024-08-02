@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "WebXR",
     description:
       "I built Drum Simulator XR to explore WebXR's capabilities, supporting both an AR and VR mode. It was developed using Wonderland Engine and is published on HeyVR.io and a self-hosted wesite: https://webxrcade.net/drum-sim/.",
-    image: "./project-1.gif",
+    image: "./DrumSim.gif",
     link: "https://heyvr.io/arcade/games/drum-simulator-vr",
   },
   {
@@ -36,7 +36,7 @@ export const projects = [
     subtitle: "Godot using C#",
     description:
       "As a semester-long project for VGDev, Georgia Tech's game development club, I helped with the development of a puzzle-platformer called Tip. I was responsible for a large portion of the core game and level design. While the game was never completed, I learned valuable skills and experience working in a team.",
-    image: "./project-4.gif",
+    image: "./Tip.gif",
     link: "https://reactbootcamp.com",
   },
 ];
