@@ -21,14 +21,14 @@ export const projects = [
     description:
       "Using Microsoft Mesh, I made a virtual classroom with a fully functional chalkboard and chemistry station. I experimented with shaders to model fluids and chemical interactions. I utilized generative AI to create some assets.",
     image: "./ChemLabDemo.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://youtu.be/mH-L6bWxuys",
   },
   {
     title: "Personal Website",
     subtitle: "React and Tailwind CSS",
     description:
       "I built this dynamic portfolio website using React and Tailwind CSS, helping me learn the basics of modern web development.",
-    image: "./project-4.gif",
+    image: "./Website.gif",
     link: "https://reactbootcamp.com",
   },
   {
@@ -37,7 +37,7 @@ export const projects = [
     description:
       "As a semester-long project for VGDev, Georgia Tech's game development club, I helped with the development of a puzzle-platformer called Tip. I was responsible for a large portion of the core game and level design. While the game was never completed, I learned valuable skills and experience working in a team.",
     image: "./Tip.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://www.youtube.com/watch?v=544TYXPRREc",
   },
 ];
 
