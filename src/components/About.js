@@ -14,7 +14,8 @@ export default function About() {
                 
                 <p className="mb-8 leading-relaxed">
                     My virtual reality journey started in 2018 when I first tried out the HTC Vive. I was fascinated by this elevated interaction with the virtual world,
-                    and 5 years later I applied to the Computer Engineering program at Georgia Tech to learn about both the hardware and software aspects of VR.
+                    and 5 years later I applied to the Computer Engineering program at Georgia Tech to learn about both the hardware and software aspects of VR. This website showcases
+                    some of my favorite experiences I've created.
 
                 </p>
                 <div className="flex justify-center">

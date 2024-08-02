@@ -13,7 +13,7 @@ export default function Projects() {
                     My Projects
                 </h1>
                 <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-                    Here are some of my personal projects, intended to facilitate my understanding of the XR ecosystem.
+                    Here are some of my personal projects, demonstrating my growth as a developer. They demonstrate a proficiency for immersive computing technology, including VR, AR, and WebXR.
                 </p>
             </div>
             <div className="flex flex-wrap -m-4">

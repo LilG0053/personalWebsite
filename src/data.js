@@ -3,7 +3,7 @@ export const projects = [
     title: "Drum Simulator XR",
     subtitle: "WebXR",
     description:
-      "I built Drum Simulator XR to explore WebXR's capabilities, supporting both an AR and VR mode. It was developed using Wonderland Engine and is published on HeyVR.io.",
+      "I built Drum Simulator XR to explore WebXR's capabilities, supporting both an AR and VR mode. It was developed using Wonderland Engine and is published on HeyVR.io and a self-hosted wesite: https://webxrcade.net/drum-sim/.",
     image: "./project-1.gif",
     link: "https://heyvr.io/arcade/games/drum-simulator-vr",
   },
@@ -16,18 +16,26 @@ export const projects = [
     link: "https://reactbootcamp.com",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Lab Classroom",
+    subtitle: "Microsoft Mesh and shaders",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Using Microsoft Mesh, I made a virtual classroom with a fully functional chalkboard and chemistry station. I experimented with shaders to model fluids and chemical interactions. I also experimented with prototyping using AI generated assets",
     image: "./project-3.gif",
     link: "https://reactbootcamp.com",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Personal Website",
+    subtitle: "React and Tailwind CSS",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "I built this dynamic portfolio website using React and Tailwind CSS, helping me learn the basics of modern web development.",
+    image: "./project-4.gif",
+    link: "https://reactbootcamp.com",
+  },
+  {
+    title: "Tip",
+    subtitle: "Godot using C#",
+    description:
+      "As a semester-long project for VGDev, Georgia Tech's game development club, I helped with the development of a puzzle-platformer called Tip. I was responsible for a large portion of the core game and level design. While the game was never completed, I learned valuable skills and experience working in a team.",
     image: "./project-4.gif",
     link: "https://reactbootcamp.com",
   },
