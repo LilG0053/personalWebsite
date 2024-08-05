@@ -13,7 +13,7 @@ export const projects = [
     description:
       "Using Meta's Interaction SDK in Unity, I made a mixed reality physics-based puzzle game using hand tracking. It has over 30 levels and a scalable, modular game design. Spatial volumes are used to provide in-game collisions with the real world.",
     image: "./ChopstickSim.gif",
-    link: "https://reactbootcamp.com",
+    link: "",
   },
   {
     title: "Lab Classroom",
@@ -29,7 +29,7 @@ export const projects = [
     description:
       "I built this dynamic portfolio website using React and Tailwind CSS, helping me learn the basics of modern web development.",
     image: "./Website.gif",
-    link: "https://reactbootcamp.com",
+    link: "./",
   },
   {
     title: "Tip",
