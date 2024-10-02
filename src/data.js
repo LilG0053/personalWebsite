@@ -8,6 +8,14 @@ export const projects = [
     link: "https://heyvr.io/arcade/games/drum-simulator-vr",
   },
   {
+    title: "Augmented Reality Research",
+    subtitle: "Exploring Congitive Computing",
+    description:
+      "Working in Dr. Thad Starners lab, we explored human-centered design for augmented reality. Specifically, we looked into the optical combiner and where it should be placed to maximize user comfort. I led the creation of an application that simulates using a monocular augmented reality headset in real world-scenarios, such as following a person.",
+    image: "./WalkingComfort.gif",
+    link: "https://dl.acm.org/profile/99661352857",
+  },
+  {
     title: "Chopstick Simulator",
     subtitle: "Meta Interaction SDK",
     description:
