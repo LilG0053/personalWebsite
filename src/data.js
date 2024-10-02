@@ -24,6 +24,14 @@ export const projects = [
     link: "",
   },
   {
+    title: "SnapSecure",
+    subtitle: "HackGT SnapAR Sponsor First Place",
+    description:
+      "During HackGT, my team and I decided to compete for SnapAR's sponsorship prize by usiong their Snap Spectacles. We created SnapSecure, an app that uses the motion data of the user to authenticate them, sort of like touch ID. We extended this use case to include health data, and interacting with IoT devices.",
+    image: "./SnapSecure.gif",
+    link: "https://devpost.com/software/snapsecure",
+  },
+  {
     title: "Lab Classroom",
     subtitle: "Microsoft Mesh and shaders",
     description:
@@ -39,14 +47,7 @@ export const projects = [
     image: "./Website.gif",
     link: "./",
   },
-  {
-    title: "Tip",
-    subtitle: "Godot using C#",
-    description:
-      "As a semester-long project for VGDev, Georgia Tech's game development club, I helped with the development of a puzzle-platformer called Tip. I was responsible for a large portion of the core game and level design. While the game was never completed, I learned valuable skills and experience working in a team.",
-    image: "./Tip.gif",
-    link: "https://www.youtube.com/watch?v=544TYXPRREc",
-  },
+
 ];
 
 export const skills = [
